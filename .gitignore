@@ -73,6 +73,9 @@ artifacts/
 *.svclog
 *.scc
 
+*.keystore
+*.apk
+
 # Chutzpah Test files
 _Chutzpah*
 
