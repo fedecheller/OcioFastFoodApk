@@ -67,7 +67,6 @@
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <None Include="GettingStarted.Xamarin" />
-    <None Include="ociofastfood.keystore" />
     <None Include="web.config" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

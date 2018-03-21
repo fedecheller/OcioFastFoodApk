@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>AVD_GalaxyNexus_ToolsForApacheCordova</SelectedDevice>
     <DefaultDevice>AVD_GalaxyNexus_ToolsForApacheCordova</DefaultDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
